@@ -1,6 +1,4 @@
 name: Build
-
-  workflow_dispatch:
 on: [push, pull_request]
 
 jobs:
